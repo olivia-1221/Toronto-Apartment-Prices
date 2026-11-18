@@ -1,1 +1,1 @@
-# stat301-project
+# Predictors of Toronto Apartment Prices
